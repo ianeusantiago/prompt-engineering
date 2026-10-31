@@ -1,6 +1,6 @@
-# Iná
+# INA
 
-[Iná](https://github.com/ianeusantiago/Ina) é um app desktop para Windows que orquestra uma equipe de agentes de IA: um orquestrador e vários agentes, cada um rodando o Claude Code no próprio terminal e na própria git worktree.
+[INA](https://github.com/ianeusantiago/Ina) é um app desktop para Windows que orquestra uma equipe de agentes de IA: um orquestrador e vários agentes, cada um rodando o Claude Code no próprio terminal e na própria git worktree.
 
 O app foi construído com o Claude Code a partir destes dois arquivos. Hoje ele está na versão 0.1.1, com instalador, atualização automática e CI no Windows.
 
