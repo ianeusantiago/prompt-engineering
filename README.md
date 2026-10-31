@@ -9,7 +9,7 @@ Prompts e arquivos de contexto que eu uso para orquestrar agentes de IA de progr
 | Pasta | Projeto | O que mostra |
 | --- | --- | --- |
 | [`ina/`](ina/) | [Iná](https://github.com/ianeusantiago/Ina), app desktop que orquestra agentes de IA | O prompt que gerou o app e as regras do projeto (`CLAUDE.md`) |
-| [`orquestracao/sites-13-nichos/`](orquestracao/sites-13-nichos/) | 13 sites de nichos diferentes + portfólio, feitos por uma equipe de agentes | Um orquestrador que delega para 5 papéis, cada um no próprio terminal e git worktree |
+| [`orquestracao/sites-13-nichos/`](orquestracao/sites-13-nichos/) | 13 sites de nichos diferentes + [portfólio](https://koda-portfolio-two.vercel.app/), feitos por uma equipe de agentes e publicados na Vercel | Um orquestrador que delega para 5 papéis, cada um no próprio terminal e git worktree |
 | [`jogo-roblox/`](jogo-roblox/) | SHIFT ZERO, jogo cooperativo no Roblox (protótipo) | Duas versões do prompt (v1 e v2) e o que mudou de uma para a outra |
 
 ## O que esses prompts têm em comum
