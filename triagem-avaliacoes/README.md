@@ -1,4 +1,4 @@
-# Triagem de avaliações: um prompt medido
+# Signa (triagem de avaliações): um prompt medido
 
 O prompt que classifica avaliações de clientes de um restaurante de delivery no meu fluxo do n8n ([repositório do projeto](https://github.com/ianeusantiago/triagem-avaliacoes-n8n)). Ele roda num modelo pequeno e gratuito (llama3.2, no Ollama, no meu próprio PC) e devolve só um JSON com categoria, sentimento e urgência.
 
